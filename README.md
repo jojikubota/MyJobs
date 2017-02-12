@@ -1,4 +1,7 @@
-# MyJobs
+# MyJobs (iOS App)
 
-iOS app that accesses multiple job listing APIs based on user search parameters. Parses and ranks listings using various factors such as
-distance, relevance to search, and date posted.
+Developed a job finder app for iOS that searches through multiple job posting services in one tap.
+
+- Features: Find jobs from Indeed, Monster and CareerBuilder. Weight each job based user preferences such as distance relevance and date posted. Save favorite jobs in cloud server.
+
+Technologies: iOS, Objective-C, Indeed Search API, Monster Search API, CareerBuilder Search API, Parse
